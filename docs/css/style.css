@@ -1,0 +1,13 @@
+h1,h2{
+    color: #444444;
+}
+.title-font{
+    border-bottom:solid 20px#BBFFFF;
+    padding:40px 0 10px 20px;
+}
+.subtitle-font{
+    border-bottom: solid 5px #0076ff;
+}
+span{
+    color: #0076ff;
+}
